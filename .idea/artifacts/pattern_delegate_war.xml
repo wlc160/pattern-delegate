@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pattern-delegate:war">
+    <output-path>E:/开发环境搭建/WebServer/apache-tomcat-8.0.28/apache-tomcat-8.0.28/webapps</output-path>
+    <root id="archive" name="delegate-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="pattern-delegate:war exploded" />
+    </root>
+  </artifact>
+</component>
